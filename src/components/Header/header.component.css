@@ -1,0 +1,7 @@
+.logo{
+    color:red
+}
+.logo:hover{
+    color:purple;
+    text-decoration: none;
+}

@@ -1,0 +1,31 @@
+.customer-form {
+  max-width: 70%;
+  margin-top: 20px;
+  border: 1px solid #d3cbcb;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.2);
+}
+
+.customer-form-button {
+  padding: 10px 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  line-height: 1;
+  border-radius: 10px;
+  color:purple;
+  border: 1px solid purple;
+  background-color: black;
+  user-select: none;
+  margin-top: 10px;
+}
+.customer-form-title {
+  text-align: center;
+  font-size: 1.7rem;
+  margin: 20px;
+  font-weight: bold;
+}
+
+.customer-form-error {
+  color: red;
+}

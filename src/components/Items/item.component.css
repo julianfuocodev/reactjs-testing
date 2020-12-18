@@ -1,0 +1,26 @@
+.precio {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: red;
+}
+
+.router-link:hover {
+  text-decoration: none;
+  color: black;
+}
+.router-link {
+  color: black;
+}
+.item-component-container {
+  margin: 10px;
+}
+
+.card {
+  min-width: 300px;
+  min-height: 500px;
+}
+.card-img-top {
+  width: 250px;
+  height: 300px;
+  background-color: gray;
+}

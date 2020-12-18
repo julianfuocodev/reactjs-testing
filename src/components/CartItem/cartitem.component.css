@@ -1,0 +1,27 @@
+.cart-item-container {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px double purple;
+  padding: 10px;
+  margin: 5px 20px;
+}
+
+.cart-item-img {
+ min-height: 100px;
+  width: 300px;
+  margin-right: 20px;
+  background-color: gray;
+}
+.cart-item-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.cart-item-precio {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.cart-item-eliminar {
+  font-size: 1.2rem;
+}
